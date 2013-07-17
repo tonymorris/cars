@@ -1,1 +1,2 @@
-Manufacturer,Year,Model,Displacement (cc),Power (kW@RPM),Torque (Nm@RPM),Transmission,Fuel Capacity (L),Fuel Consumption (L/100km combined),Boot Capacity,Maximum Towball Weight (kg),Price ($)
+Manufacturer,Year,Model,Displacement (cc),Power (kW@RPM),Power (RPM),Torque (Nm),Torque (RPM),Transmission,Fuel Capacity (L),Fuel Consumption (L/100km combined),Boot Capacity,Maximum Towball Weight (kg),Price ($)
+Hyundai,2013,Santa Fe Active,2359,141,6300,242,4250,6sp manual,64,6.6,516,100,40686.95
