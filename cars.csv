@@ -1,2 +1,11 @@
-Manufacturer,Year,Model,Displacement (cc),Power (kW@RPM),Power (RPM),Torque (Nm),Torque (RPM),Transmission,Fuel Capacity (L),Fuel Consumption (L/100km combined),Boot Capacity,Maximum Towball Weight (kg),Price ($)
-Hyundai,2013,Santa Fe Active,2359,141,6300,242,4250,6sp manual,64,6.6,516,100,40686.95
+Manufacturer,Year,Model,Displacement (cc),Power (kW@RPM),Power (RPM),Torque (Nm),Torque (RPM),Transmission,Drive,Fuel Capacity (L),Fuel Consumption (L/100km combined),Boot Capacity,Maximum Towball Weight (kg),Price ($)
+Hyundai,2013,Santa Fe Active,2359,141,6300,242,4250,6sp manual,4WD,64,6.6,516,100,40686.95
+Hyundai,2013,Elite IX35,2359,130,6000,227,4000,6sp auto,AWD,55,8.5,591,,38626.95
+Mitsubishi,2013,ES Outlander,2400,124,6000,220,4200,CVT auto,AWD,60,7.5,477,160,38257
+Mitsubishi,2013,ASX Aspire,2200,110,4000,,,manual,AWD,60,5.8,416,140,39287
+Dodge,2013,Journey,3600,206,6350,342,4350,6sp auto,FWD,77.6,10.4,1461,110,36444
+Mazda,2013,CX5 Maxx,2500,138,5700,250,4000,6sp auto,AWD,58,7.4,403,150,36443
+Toyota,2013,Rav4 GXL,2500,132,6000,233,4100,6sp manual,4WD,60,8.6,577,,39188.95
+Toyota,2013,Rav4 Cruiser,2500,132,6000,233,4100,6sp manual,4WD,60,8.6,577,,46913.95
+Subaru,2013,Forrester,2000,110,6200,198,4200,6sp manual,AWD,60,8.1,422,150,34863
+Kia,2013,Sorento,2200,145,3800,421,2500,6sp manual,4WD,64,6.6,258,120,37490
